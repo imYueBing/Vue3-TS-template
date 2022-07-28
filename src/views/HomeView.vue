@@ -1,0 +1,10 @@
+<template>
+  <div class="home">
+    <h2>Home</h2>
+    <router-view />
+  </div>
+</template>
+
+<script setup lang="ts"></script>
+
+<style scoped></style>
